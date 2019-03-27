@@ -259,3 +259,16 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+*.filters
+*.cpp
+ConsoleApplication5/stdafx.cpp
+ConsoleApplication5/ConsoleApplication5.vcxproj.filters
+ConsoleApplication5/ConsoleApplication5.vcxproj
+*.vcxproj
+*.filters
+*.sln
+ConsoleApplication5.sln
+*.vcxproj
+ConsoleApplication5/ConsoleApplication5.vcxproj
+ConsoleApplication5/ConsoleApplication5.vcxproj.filters
+*.filters
